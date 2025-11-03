@@ -1,4 +1,4 @@
-package Arrays;
+
 //How to resize an array in Java?
 public class ResizeArray {
     

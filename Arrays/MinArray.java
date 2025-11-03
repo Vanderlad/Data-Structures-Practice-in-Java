@@ -1,4 +1,4 @@
-package Arrays;
+
 public class MinArray {
     
     public static int findMinimum(int[] numbers){

@@ -1,12 +1,4 @@
-package Arrays;
-/*
-    Given an array of integers, 
-    write a Java program to move all zeros to the end of the array
-    while maintaining the relative order of non-zero elements.
 
-    For example, given the input array {0, 1, 0, 4, 12},
-    the output should be {1, 4, 12, 0, 0}.
- */
 
 public class MoveZeros {
     

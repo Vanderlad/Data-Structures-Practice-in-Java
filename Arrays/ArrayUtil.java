@@ -1,4 +1,4 @@
-package Arrays;
+
 public class ArrayUtil {
     public void printArray(int[] arr){
         int n = arr.length;

@@ -24,8 +24,8 @@ public class DoublyLinkedList {
         linkedList.offer("F");
 
         linkedList.add(4, "E"); //add at index 4
-        linkedList.remove("E"); // remove specific element
-        System.out.println(linkedList.indexOf("D")); //get index of element
+        linkedList.remove("F"); // remove specific element
+        System.out.println(linkedList.indexOf("A")); //get index of element
         // linkedList.poll(); //remove from the front
         System.out.println("Linked List: " + linkedList);
 

@@ -1,6 +1,4 @@
-package Arrays;
-/*Given an array of integers, 
-write a Java program to find the second largest element in the array. */ 
+ 
 
 
 public class FindSecondMax {
